@@ -1,10 +1,10 @@
 # yolo-example
 yolo example for tistory
 
-alexyab 사이트에서 확인해보았더니, `darknet.py`의 코드 내용이 좀 변경되었더군요
-그전에 좀 더러웠던 코드를 정리한 느낌이라 별 차이는 없을거라 생각 되지만 제가 작성한 글을 그대로
-사용하기 위해서는 전에 있던 `darknet.py`가 필요할거 같아서 같이 올려드립니다.
-해당 코드는 yolov4의 pre-train가중치를 이용하여 coco data set이 훈련된 모델로 테스트 되었습니다.
+alexyab 사이트에서 확인해보았더니, `darknet.py`의 코드 내용이 좀 변경되었더군요.    
+그전에 좀 더러웠던 코드를 정리한 느낌이라 별 차이는 없을거라 생각 되지만     
+제가 작성한 글을 그대로 사용하기 위해서는 전에 있던 `darknet.py`가 필요할거 같아서 같이 올려드립니다.    
+해당 코드는 yolov4의 pre-train가중치를 이용하여 coco data set이 훈련된 모델로 테스트 되었습니다.    
 
 ## Required Pakages
 + Opencv
